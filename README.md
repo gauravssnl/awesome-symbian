@@ -10,6 +10,8 @@
 
 😎 List of awesome Symbian Github repositories, blogs & other related resources 😎
 
+I have prepared this list from my Facebook Notes ![Symbian Github API](https://www.facebook.com/notes/gaurav-singh/symbian-github-api/1392651284124220/) 
+
 
 - https://github.com/Vitalii17/RotateIt
 - https://github.com/Vitalii17/NanoCounter
