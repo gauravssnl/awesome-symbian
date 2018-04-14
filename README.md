@@ -48,7 +48,7 @@
 - http://toshl.com/
 - https://vk.com/symbian_zone
 - https://github.com/Allstar12345/Star-Player-Symbian/
-- koonooz.com
+- http://koonooz.com
 - https://github.com/ksiazkowicz/Tessera
 - https://sites.google.com/site/cwwikipedia/
 - https://github.com/ksiazkowicz/lightbulb
@@ -101,8 +101,7 @@
 - https://m.vk.com/page-36741297_45328752?from=wall-36741297_632026
 - http://allnokia.ru/symbsoft/moreinfo-6161.htm
 - http://www.msec.it/blog/?page_id=11
-- SYMBIAN' FAN
-https://fedor4ever.wordpress.com/
+- ![Fedor4ever SYMBIAN' FAN](https://fedor4ever.wordpress.com/)
 - https://github.com/fedor4ever/GCC-4-Symbian
 - https://github.com/fedor4ever/pys60
 - https://github.com/fedor4ever/internet-radio
@@ -146,7 +145,6 @@ https://fedor4ever.wordpress.com/
 - https://github.com/Symbian9/sisopen
 - https://github.com/leonid-shevtsov/rtm-for-pys60
 - https://github.com/simon816/symdroid
-- v
 - https://github.com/zhonghualee/TestSymbian
 - https://github.com/ltworf/rssagk
 - https://github.com/xkong/jwcx-pys60
