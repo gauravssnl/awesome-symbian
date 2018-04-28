@@ -10,7 +10,7 @@
 
 😎 List of awesome Symbian Github repositories, blogs & other related resources 😎
 
-I have prepared this list from my Facebook Note ![Symbian Github API](https://www.facebook.com/notes/gaurav-singh/symbian-github-api/1392651284124220/) 
+I have prepared this list from my Facebook Note <a href="https://www.facebook.com/notes/gaurav-singh/symbian-github-api/1392651284124220/">Symbian Github API</a>
 
 >
 
