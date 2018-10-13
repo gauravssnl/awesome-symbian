@@ -17,6 +17,8 @@ I have prepared this list from my Facebook Note <a href="https://www.facebook.co
 - https://github.com/Vitalii17/RotateIt
 - https://github.com/Vitalii17/NanoCounter
 - https://github.com/Vitalii17/ECodes
+- https://github.com/Vitalii17/Streets
+- https://github.com/9smart/QQC_1_1_for_Symbian1
 - https://github.com/marxoft/cutetube2/
 - https://github.com/marxoft/qyoutube
 - https://github.com/marxoft/cuteradio
