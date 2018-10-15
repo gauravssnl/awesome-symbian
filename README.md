@@ -46,8 +46,6 @@ I have prepared this list from my Facebook Note <a href="https://www.facebook.co
 - https://github.com/saprykin/nsrreader-symbian-meego
 - http://www.warpunen.net/app.php?txt=checklist
 - http://infotech.sk/
-- http://infotech.sk/
-- http://www.miniansoftware.com/
 - http://www.miniansoftware.com/
 - www.kaufda.de/Nokia
 - http://www.autoscout24.com/
@@ -58,7 +56,6 @@ I have prepared this list from my Facebook Note <a href="https://www.facebook.co
 - http://koonooz.com
 - https://github.com/ksiazkowicz/Tessera
 - https://sites.google.com/site/cwwikipedia/
-- https://github.com/ksiazkowicz/lightbulb
 - https://www.openhub.net/p/quasar_media_player
 - https://katastrophos.net/andre/blog/
 - http://traxxmy.com/topic/fileplay
@@ -74,7 +71,6 @@ I have prepared this list from my Facebook Note <a href="https://www.facebook.co
 - http://theshowstopper.in/bumblr
 - https://github.com/ksiazkowicz/lightbulb
 - https://github.com/dicksonleong/Tweetian
-- https://github.com/dicksonleong/Tweetian
 - http://www.jappit.com/blog/
 - https://github.com/jappit/rate-my-asha-app
 - https://bitbucket.org/IlyaSkriblovsky/meebible
@@ -84,7 +80,6 @@ I have prepared this list from my Facebook Note <a href="https://www.facebook.co
 - http://www.dankoi.hu/
 - http://www.patrickfrei.ch/phonetinfo/index.html
 - https://sites.google.com/site/symbianwakeonlan/
-- https://github.com/andijakl/nfcinteractor
 - https://github.com/andijakl/nfcinteractor
 - https://github.com/Motaz-Alnuweiri/BatteryStatus
 - http://www.nfcinteractor.com/overview/features/
@@ -129,7 +124,6 @@ I have prepared this list from my Facebook Note <a href="https://www.facebook.co
 - https://github.com/dot-gov/core-symbian
 - https://github.com/trufanov-nok/SymbianBook_ru
 - https://github.com/radioxoma/medcalcs60
-- https://github.com/radioxoma/medcalcs60
 - https://github.com/Symbian9/cairo-for-symbian
 - https://github.com/d3ru/FShell
 - https://github.com/Tallefer/symbian-http-engine
@@ -138,7 +132,6 @@ I have prepared this list from my Facebook Note <a href="https://www.facebook.co
 - https://github.com/VlaoMao/symbian
 - https://github.com/uaftab/Python-S60-GPS-Tracker
 - https://github.com/howdyworld/pys60_verbo
-- https://github.com/9smart/QQC_1_1_for_Symbian1
 - https://github.com/DrJukka/Symbian_Codes
 - https://github.com/perqin/QtQQ
 - https://github.com/xsacha/SymbianGCC
